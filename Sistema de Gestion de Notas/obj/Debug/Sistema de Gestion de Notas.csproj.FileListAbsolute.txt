@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Sistema de Gestion de Notas\bin\Debug\Sistema de Gestion de Notas.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Sistema de Gestion de Notas\bin\Debug\Sistema de Gestion de Notas.exe
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Sistema de Gestion de Notas\bin\Debug\Sistema de Gestion de Notas.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Sistema de Gestion de Notas\obj\Debug\Sistema de Gestion de Notas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Sistema de Gestion de Notas\obj\Debug\Sistema de Gestion de Notas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Sistema de Gestion de Notas\obj\Debug\Sistema de Gestion de Notas.exe
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Sistema de Gestion de Notas\obj\Debug\Sistema de Gestion de Notas.pdb

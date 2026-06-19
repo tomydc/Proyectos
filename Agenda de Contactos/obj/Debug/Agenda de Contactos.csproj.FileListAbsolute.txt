@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Agenda de Contactos\bin\Debug\Agenda de Contactos.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Agenda de Contactos\bin\Debug\Agenda de Contactos.exe
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Agenda de Contactos\bin\Debug\Agenda de Contactos.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Agenda de Contactos\obj\Debug\Agenda de Contactos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Agenda de Contactos\obj\Debug\Agenda de Contactos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Agenda de Contactos\obj\Debug\Agenda de Contactos.exe
+C:\Users\USUARIO\OneDrive\Documentos\ejercicos 1 c#\clase 12-6 programacion\Agenda de Contactos\obj\Debug\Agenda de Contactos.pdb
